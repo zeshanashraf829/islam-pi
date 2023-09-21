@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167074072408",
+    "project_id": "islampi",
+    "storage_bucket": "islampi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167074072408:android:a29eff396d7286499a872d",
+        "android_client_info": {
+          "package_name": "com.nasash.islampi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt55MZ9SAFDGcp9Rqh3iEcaDuPzIFDj_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
